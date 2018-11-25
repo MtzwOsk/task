@@ -1,0 +1,21 @@
+*#
+*~
+*.zip
+.idea
+env
+venv
+*.log
+backend/logs/*.*
+*.pyc
+__pycache__
+local_settings.py
+
+
+/backend/env/
+
+# frontend
+frontend/node_modules
+frontend/_build
+
+#pyenv
+.python-version
